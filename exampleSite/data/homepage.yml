@@ -53,14 +53,8 @@ education:
   - title: B.S. in Neuroscience
     year: "2013"
     academy: Dartmouth College
-  - title: Higher Secondary Certificat
-    year: "2000"
-    academy: Cardiff School
-  - title: Secondary School Certificate
-    year: "1998"
-    academy: Cardiff School
 service:
-  enable: true
+  enable: false
   title: Services
   item:
   - title: UI Design
@@ -83,7 +77,7 @@ portfolio:
   title: Portfolio
   item_show: "5"
 testimonial:
-  enable: true
+  enable: false
   title: Testimonials
   item:
   - name: Jesica Gomez
