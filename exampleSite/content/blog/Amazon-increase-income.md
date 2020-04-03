@@ -6,4 +6,4 @@ description: A framework for evaluating & improving the end-to-end UX of your pr
   platform.
 
 ---
-[https://uxdesign.cc/designing-for-interusability-9e22d74bf540](https://uxdesign.cc/designing-for-interusability-9e22d74bf540 "https://uxdesign.cc/designing-for-interusability-9e22d74bf540")
+A framework for evaluating & improving the end-to-end UX of your product platform.
