@@ -27,7 +27,7 @@ logo = "images/logo.png"
 phone = "you know my digits"
 theme_color = "#41228e"
 [params.contact]
-enable = true
+enable = false
 form_action = "#"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
@@ -44,7 +44,7 @@ URL = "plugins/slick/slick.min.js"
 [[params.plugins.js]]
 URL = "plugins/shuffle/shuffle.min.js"
 [params.preloader]
-enable = true
+enable = false
 preloader = ""
 [[params.social]]
 URL = "#"
