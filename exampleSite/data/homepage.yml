@@ -5,8 +5,8 @@ banner:
 about:
   enable: true
   content: I am Runi - simply the best UX designer around. I enjoy thinking about
-    and building systems. I singlehandedly created the Blocks design system (blocks.cbrebuild.com)
-    at CBRE Build.
+    and building systems. I singlehandedly created the <a href="blocks.cbrebuild.com">Blocks
+    design system</a> at CBRE Build.
   button:
     enable: true
     label: know more
