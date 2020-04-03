@@ -1,45 +1,17 @@
 ---
-title: "Amazon increase income 1.5 Million"
-date: 2019-05-12T12:14:34+06:00
-image: "images/blog/post-3.jpg"
-description: "This is meta description."
+title: An illustrated, experimental, approach to design system principles
+date: 2018-12-20T17:00:00+00:00
+image: images/blog/post-3.jpg
+description: We did it! We made a design system this year called Blocks, adding CBRE
+  Build to the 85% of tech teams who have a design system. Most of them also have
+  articles about their design system journeys. These articles usually go into detail
+  about how to structure a core design system team, how to get stakeholder buy-in,
+  and how to build versioned pattern libraries. What they tend to gloss over is the
+  messy process of defining design system principles. Why? Because design system principles
+  are a lot like love. Everyone agrees that they are fundamentally important but no
+  one agrees on what they are or what bigger purpose they serve. And good luck trying
+  to find a no-BS guide to falling in love — or defining principles — without a lot
+  of clichés and hand waving.
+
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
-
-> Dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+We did it! We made a design system this year called [Blocks](https://blocks.cbrebuild.com/), adding CBRE Build to [the 85%](http://uxtools.co/survey-2018) of tech teams who have a design system. [Most of them](https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=%22design%20system%22) also have articles about their design system journeys. These articles usually go into detail about how to structure a core design system team, how to get stakeholder buy-in, and how to build versioned pattern libraries. What they tend to gloss over is the messy process of defining design system principles. Why? Because design system principles are a lot like love. Everyone agrees that they are _fundamentally important_ but no one agrees on what they are or what bigger purpose they serve. And good luck trying to find a no-BS guide to falling in love — or defining principles — without a lot of clichés and hand waving.
