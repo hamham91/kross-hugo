@@ -15,10 +15,6 @@ weight = 3
 URL = "portfolio"
 name = "Portfolio"
 weight = 4
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 5
 [params]
 address = "125/A, CA Commercial Area, California, USA"
 author = "Johnathan Smith"
