@@ -1,4 +1,4 @@
-baseURL = "http://runi-portfolio-test.netlify.app"
+baseURL = "http://runi-portfolio-test.netlify.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
