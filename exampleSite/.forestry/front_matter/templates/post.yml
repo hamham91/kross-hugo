@@ -15,7 +15,7 @@ fields:
   name: description
   label: description
 - type: text
-  name: link
-  label: link
+  name: url
+  label: url
 pages:
 - exampleSite/content/about/_index.md
